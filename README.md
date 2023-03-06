@@ -1,4 +1,7 @@
 # GamersGauntlet
+
+![Web capture_5-3-2023_203552_powerful-inlet-74359 herokuapp com](https://user-images.githubusercontent.com/116024194/223000390-376161d9-2517-49c4-88f6-c48ca85280dd.jpeg)
+
 ## Description
 GamerGauntlet App is a fun and challenging quiz game that tests your knowledge of video games. With a wide variety of questions covering classic and modern games, characters, storylines, gameplay mechanics, and more, you'll be sure to find something to challenge your gaming expertise.
 
