@@ -45,10 +45,15 @@ Enjoy the app and check back regularly for updates and new questions.
 
 ## Contributing
 https://github.com/stevendepauw
+
+
 https://github.com/GarrettAnderson
+
+
 https://github.com/CourtneyGoch
 
 
+https://github.com/marii9
 
 ## License
 
