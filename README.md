@@ -50,6 +50,6 @@ This project is licensed under the [MIT](https://opensource.org/licenses/mit) li
 
 ## Questions
 
-If you have any questions, you can reach me at my GitHub profile: [marii9](https://github.com/marii9)
+If you have any questions, you can us at our GitHub profile: 
 
-You can also email me at: shemarlion@gmail.com
+You can also email us at: 
