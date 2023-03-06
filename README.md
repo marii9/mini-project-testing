@@ -44,10 +44,9 @@ Keep playing to improve your gaming knowledge and see how you rank against other
 Enjoy the app and check back regularly for updates and new questions.
 
 ## Contributing
-
-
-
-## Tests
+https://github.com/stevendepauw
+https://github.com/GarrettAnderson
+https://github.com/CourtneyGoch
 
 
 
@@ -58,7 +57,12 @@ This project is licensed under the [MIT](https://opensource.org/licenses/mit) li
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/mit)
 
 ## Questions
-
-If you have any questions, you can us at our GitHub profile: 
-
 You can also email us at: 
+courtneyc017@gmail.com 
+shemarlion@gmail.com
+glga@protonmail.com
+stevendepauw@rocketmail.com
+
+
+
+
