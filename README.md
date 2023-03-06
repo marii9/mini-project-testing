@@ -63,10 +63,17 @@ This project is licensed under the [MIT](https://opensource.org/licenses/mit) li
 
 ## Questions
 You can also email us at: 
-courtneyc017@gmail.com 
+courtneyc017@gmail.com
+
+
 shemarlion@gmail.com
+
+
 glga@protonmail.com
+
+
 stevendepauw@rocketmail.com
+
 
 
 
